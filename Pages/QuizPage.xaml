@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="ChimieQuiz.Pages.QuizPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Quiz">
+
+    <VerticalStackLayout Padding="20" Spacing="14">
+
+        <Label x:Name="HeaderLabel"
+               Text="Quiz"
+               FontSize="24"
+               FontAttributes="Bold" />
+
+        <Label x:Name="ProgressLabel"
+               Text="0/0"
+               FontSize="14"
+               Opacity="0.8" />
+
+        <Border Stroke="{StaticResource BorderColor}"
+                StrokeThickness="1"
+                BackgroundColor="{StaticResource CardBg}"
+                Padding="16"
+                StrokeShape="RoundRectangle 16">
+            <Label x:Name="QuestionLabel"
+                   Text="Întrebare..."
+                   FontSize="18" />
+        </Border>
+
+        <Button x:Name="OptionA" Style="{StaticResource OptionButton}" Clicked="OnOptionClicked" />
+        <Button x:Name="OptionB" Style="{StaticResource OptionButton}" Clicked="OnOptionClicked" />
+        <Button x:Name="OptionC" Style="{StaticResource OptionButton}" Clicked="OnOptionClicked" />
+        <Button x:Name="OptionD" Style="{StaticResource OptionButton}" Clicked="OnOptionClicked" />
+        <Button x:Name="OptionE" Style="{StaticResource OptionButton}" Clicked="OnOptionClicked" />
+
+        <Button x:Name="NextButton"
+                Text="Next"
+                Style="{StaticResource PrimaryButton}"
+                Clicked="OnNextClicked"
+                IsEnabled="False" />
+
+    </VerticalStackLayout>
+</ContentPage>

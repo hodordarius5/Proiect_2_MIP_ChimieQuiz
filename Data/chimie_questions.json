@@ -1,0 +1,173 @@
+[
+  {
+    "Id": 1,
+    "Chapter": "Acizi și baze",
+    "Text": "Care este un acid tare?",
+    "Options": ["CH3COOH", "H2CO3", "HCl", "NH3", "H2O"],
+    "CorrectIndex": 2
+  },
+  {
+    "Id": 2,
+    "Chapter": "Acizi și baze",
+    "Text": "Ce pH are o soluție neutră?",
+    "Options": ["0", "3", "7", "10", "14"],
+    "CorrectIndex": 2
+  },
+  {
+    "Id": 3,
+    "Chapter": "Acizi și baze",
+    "Text": "Care este o bază tare?",
+    "Options": ["NH3", "NaOH", "HCl", "CH3COOH", "H2CO3"],
+    "CorrectIndex": 1
+  },
+  {
+    "Id": 4,
+    "Chapter": "Acizi și baze",
+    "Text": "Fenolftaleina în mediu bazic este:",
+    "Options": ["incoloră", "galbenă", "albastră", "roz", "verde"],
+    "CorrectIndex": 3
+  },
+  {
+    "Id": 5,
+    "Chapter": "Acizi și baze",
+    "Text": "Un acid conform lui Arrhenius:",
+    "Options": [
+      "eliberează -OH",
+      "eliberează H+",
+      "acceptă protoni",
+      "donează electroni",
+      "nu reacționează cu apa"
+    ],
+    "CorrectIndex": 1
+  },
+  {
+    "Id": 6,
+    "Chapter": "Structură atomică",
+    "Text": "Numărul atomic reprezintă:",
+    "Options": [
+        "Numărul de neutroni",
+        "Numărul de protoni",
+        "Numărul de electroni de valență",
+        "Masa atomică",
+        "Numărul de izotopi"
+    ],
+    "CorrectIndex": 1
+    },
+    {
+    "Id": 7,
+    "Chapter": "Structură atomică",
+    "Text": "Masa atomică relativă este:",
+    "Options": [
+        "Numărul de protoni",
+        "Numărul de electroni",
+        "Suma protonilor și neutronilor",
+        "Numărul de izotopi",
+        "Numărul de straturi"
+    ],
+    "CorrectIndex": 2
+    },
+    {
+    "Id": 8,
+    "Chapter": "Structură atomică",
+    "Text": "Electronii se află:",
+    "Options": [
+        "În nucleu",
+        "În jurul nucleului",
+        "În neutroni",
+        "În protoni",
+        "În izotopi"
+    ],
+    "CorrectIndex": 1
+    },
+    {
+    "Id": 9,
+    "Chapter": "Structură atomică",
+    "Text": "Care particulă are sarcină negativă?",
+    "Options": [
+        "Protonul",
+        "Neutronul",
+        "Electronul",
+        "Nucleonul",
+        "Izotopul"
+    ],
+    "CorrectIndex": 2
+    },
+    {
+    "Id": 10,
+    "Chapter": "Structură atomică",
+    "Text": "Izotopii unui element diferă prin:",
+    "Options": [
+        "Numărul de protoni",
+        "Numărul de electroni",
+        "Numărul de neutroni",
+        "Sarcina electrică",
+        "Poziția în tabel"
+    ],
+    "CorrectIndex": 2
+    },
+    {
+    "Id": 11,
+    "Chapter": "Oxido-reducere",
+    "Text": "Oxidarea înseamnă:",
+    "Options": [
+        "Câștig de electroni",
+        "Scădere de număr de oxidare",
+        "Pierdere de protoni",
+        "Pierdere de electroni",
+        "Creștere de masă"
+    ],
+    "CorrectIndex": 3
+    },
+    {
+    "Id": 12,
+    "Chapter": "Oxido-reducere",
+    "Text": "Reducerea înseamnă:",
+    "Options": [
+        "Pierdere de electroni",
+        "Câștig de electroni",
+        "Creștere de număr de oxidare",
+        "Pierdere de neutroni",
+        "Eliberare de protoni"
+    ],
+    "CorrectIndex": 1
+    },
+    {
+    "Id": 13,
+    "Chapter": "Oxido-reducere",
+    "Text": "Agentul oxidant este substanța care:",
+    "Options": [
+        "Se oxidează",
+        "Cedează electroni",
+        "Acceptă electroni",
+        "Crește masa",
+        "Pierde protoni"
+    ],
+    "CorrectIndex": 2
+    },
+    {
+    "Id": 14,
+    "Chapter": "Oxido-reducere",
+    "Text": "Agentul reducător este substanța care:",
+    "Options": [
+        "Acceptă electroni",
+        "Se reduce",
+        "Cedează electroni",
+        "Scade numărul de oxidare",
+        "Nu participă la reacție"
+    ],
+    "CorrectIndex": 2
+    },
+    {
+    "Id": 15,
+    "Chapter": "Oxido-reducere",
+    "Text": "Într-o reacție redox:",
+    "Options": [
+        "Are loc doar oxidare",
+        "Are loc doar reducere",
+        "Oxidarea și reducerea au loc simultan",
+        "Nu se transferă electroni",
+        "Nu se schimbă numărul de oxidare"
+    ],
+    "CorrectIndex": 2
+    }
+]
